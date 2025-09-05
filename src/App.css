@@ -11,6 +11,10 @@
   gap: 1rem;
 }
 
+.new-class {
+  color: red;
+}
+
 .subtitle {
   color: #888;
   margin-top: -0.5rem;
